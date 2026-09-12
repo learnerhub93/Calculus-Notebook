@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Notebook Paper Body (centered in 66dp safe circle) -->
+    <!-- X: 27 to 81, Y: 25 to 83 -->
+    <path
+        android:pathData="M32,25 h44 c3,0 5,2 5,5 v50 c0,3 -2,5 -5,5 h-44 c-3,0 -5,-2 -5,-5 v-50 c0,-3 2,-5 5,-5 z"
+        android:fillColor="#FFFDF5" />
+
+    <!-- Red notebook margin line -->
+    <path
+        android:pathData="M40,25 v60"
+        android:strokeColor="#FF6B6B"
+        android:strokeWidth="1.2" />
+
+    <!-- Notebook horizontal ruled lines -->
+    <path
+        android:pathData="M40,36 h38 M40,46 h38 M40,56 h38 M40,66 h38 M40,76 h38"
+        android:strokeColor="#E2E8F0"
+        android:strokeWidth="0.8" />
+
+    <!-- Spiral wire rings on the left -->
+    <path
+        android:pathData="M25,32 h5 M25,42 h5 M25,52 h5 M25,62 h5 M25,72 h5"
+        android:strokeColor="#718096"
+        android:strokeWidth="2"
+        android:strokeLineCap="round" />
+
+    <!-- Hand-sketched Calculus Integral symbol: stylized ∫ in deep ink -->
+    <path
+        android:pathData="M52,35 c-3,-2 -6,0 -6,4 c0,6 7,8 7,16 c0,5 -3,7 -6,6"
+        android:strokeColor="#1E3A8A"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Hand-drawn tangent curve and tangent dot in red/gold -->
+    <path
+        android:pathData="M57,68 q12,-8 18,-24"
+        android:strokeColor="#3B82F6"
+        android:strokeWidth="2.2"
+        android:strokeLineCap="round" />
+
+    <!-- Tangent line in red -->
+    <path
+        android:pathData="M55,62 L77,44"
+        android:strokeColor="#EF4444"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round" />
+
+    <!-- Tangent point -->
+    <path
+        android:pathData="M66,53 m -2.5,0 a 2.5,2.5 0 1,0 5,0 a 2.5,2.5 0 1,0 -5,0"
+        android:fillColor="#F59E0B" />
+</vector>

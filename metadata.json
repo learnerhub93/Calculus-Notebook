@@ -1,0 +1,6 @@
+{
+  "name": "Calculus Notebook",
+  "description": "A handwritten-style interactive notebook that teaches calculus from foundations to advanced topics with sketches, step-by-step examples, and practice problems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
